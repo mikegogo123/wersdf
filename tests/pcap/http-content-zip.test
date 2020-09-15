@@ -1,0 +1,231 @@
+{
+   "sessions2" : [
+      {
+         "body" : {
+            "communityId" : "1:XNKhxjIW0JZ2H0bhi58j9olVOcI=",
+            "dstASN" : "AS0001 Cool Beans!",
+            "dstBytes" : 909,
+            "dstDataBytes" : 571,
+            "dstGEO" : "CA",
+            "dstIp" : "10.0.0.2",
+            "dstMac" : [
+               "00:13:72:c4:f1:e1"
+            ],
+            "dstMacCnt" : 1,
+            "dstOui" : [
+               "Dell Inc."
+            ],
+            "dstOuiCnt" : 1,
+            "dstPackets" : 5,
+            "dstPayload8" : "485454502f312e31",
+            "dstPort" : 80,
+            "dstRIR" : "TEST",
+            "fileId" : [],
+            "firstPacket" : 1388428585136,
+            "http" : {
+               "bodyMagic" : [
+                  "application/zip"
+               ],
+               "bodyMagicCnt" : 1,
+               "clientVersion" : [
+                  "1.1"
+               ],
+               "clientVersionCnt" : 1,
+               "host" : [
+                  "xxxxxxxxxxxxx.xxx.com"
+               ],
+               "hostCnt" : 1,
+               "md5" : [
+                  "40be8f5100e9beabab293c9d7bacaff0"
+               ],
+               "md5Cnt" : 1,
+               "method" : [
+                  "GET"
+               ],
+               "methodCnt" : 1,
+               "path" : [
+                  "/a.zip"
+               ],
+               "pathCnt" : 1,
+               "requestHeader" : [
+                  "accept",
+                  "user-agent",
+                  "accept-encoding",
+                  "connection",
+                  "host",
+                  "accept-language"
+               ],
+               "requestHeaderCnt" : 6,
+               "requestHeaderField" : [
+                  "connection",
+                  "accept",
+                  "accept-encoding",
+                  "accept-language"
+               ],
+               "requestHeaderValue" : [
+                  "keep-alive",
+                  "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+                  "gzip,deflate,sdch",
+                  "en-us,en;q=0.8"
+               ],
+               "requestHeaderValueCnt" : 4,
+               "responseHeader" : [
+                  "content-type",
+                  "accept-ranges",
+                  "content-length",
+                  "etag",
+                  "date",
+                  "last-modified",
+                  "connection",
+                  "server"
+               ],
+               "responseHeaderCnt" : 8,
+               "responseHeaderField" : [
+                  "date",
+                  "server",
+                  "last-modified",
+                  "etag",
+                  "accept-ranges",
+                  "content-length",
+                  "connection",
+                  "content-type"
+               ],
+               "responseHeaderValue" : [
+                  "mon, 30 dec 2013 18:36:25 gmt",
+                  "apache/2.2.15 (centos)",
+                  "mon, 30 dec 2013 18:32:48 gmt",
+                  "\"b42ffc-136-4eec4abac18db\"",
+                  "bytes",
+                  "310",
+                  "close",
+                  "application/zip"
+               ],
+               "responseHeaderValueCnt" : 8,
+               "serverVersion" : [
+                  "1.1"
+               ],
+               "serverVersionCnt" : 1,
+               "sha256" : [
+                  "61479904e443b354d4427a51b990c696f731e341e4c63328e07c1a92658ba591"
+               ],
+               "sha256Cnt" : 1,
+               "statuscode" : [
+                  200
+               ],
+               "statuscodeCnt" : 1,
+               "uri" : [
+                  "xxxxxxxxxxxxx.xxx.com/a.zip"
+               ],
+               "uriCnt" : 1,
+               "useragent" : [
+                  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36"
+               ],
+               "useragentCnt" : 1
+            },
+            "initRTT" : 6,
+            "ipProtocol" : 6,
+            "lastPacket" : 1388428585176,
+            "length" : 39,
+            "node" : "test",
+            "packetLen" : [
+               94,
+               90,
+               82,
+               444,
+               82,
+               653,
+               82,
+               82,
+               82,
+               82,
+               82,
+               82
+            ],
+            "packetPos" : [
+               24,
+               118,
+               208,
+               290,
+               734,
+               816,
+               1469,
+               1551,
+               1633,
+               1715,
+               1797,
+               1879
+            ],
+            "protocol" : [
+               "http",
+               "tcp"
+            ],
+            "protocolCnt" : 2,
+            "segmentCnt" : 1,
+            "srcASN" : "AS0000 This is neat",
+            "srcBytes" : 836,
+            "srcDataBytes" : 362,
+            "srcGEO" : "RU",
+            "srcIp" : "10.0.0.1",
+            "srcMac" : [
+               "00:00:0c:07:ac:01",
+               "00:0e:d6:0b:98:80"
+            ],
+            "srcMacCnt" : 2,
+            "srcOui" : [
+               "Cisco Systems, Inc"
+            ],
+            "srcOuiCnt" : 1,
+            "srcPackets" : 7,
+            "srcPayload8" : "474554202f612e7a",
+            "srcPort" : 52925,
+            "tags" : [
+               "dstip",
+               "srcip"
+            ],
+            "tagsCnt" : 2,
+            "tcpflags" : {
+               "ack" : 5,
+               "dstZero" : 0,
+               "fin" : 3,
+               "psh" : 2,
+               "rst" : 0,
+               "srcZero" : 0,
+               "syn" : 1,
+               "syn-ack" : 1,
+               "urg" : 0
+            },
+            "test" : {
+               "ASN" : [
+                  "AS0000 This is neat"
+               ],
+               "GEO" : [
+                  "RU"
+               ],
+               "RIR" : [
+                  ""
+               ],
+               "ip" : [
+                  "10.0.0.1"
+               ],
+               "number" : [
+                  33554442
+               ],
+               "string.snow" : [
+                  "16777226:52925,33554442:80"
+               ]
+            },
+            "timestamp" : "SET",
+            "totBytes" : 1745,
+            "totDataBytes" : 933,
+            "totPackets" : 12
+         },
+         "header" : {
+            "index" : {
+               "_index" : "tests_sessions2-131230",
+               "_type" : "session"
+            }
+         }
+      }
+   ]
+}
+

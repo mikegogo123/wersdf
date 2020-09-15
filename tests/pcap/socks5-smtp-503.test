@@ -1,0 +1,140 @@
+{
+   "sessions2" : [
+      {
+         "body" : {
+            "communityId" : "1:KdO+JlWkJWvdDSYy6M4JQxSc4yY=",
+            "dstASN" : "AS0000 This is neat",
+            "dstBytes" : 854,
+            "dstDataBytes" : 280,
+            "dstGEO" : "RU",
+            "dstIp" : "10.0.0.1",
+            "dstMac" : [
+               "00:00:5e:00:01:01",
+               "80:71:1f:82:cf:c6"
+            ],
+            "dstMacCnt" : 2,
+            "dstOui" : [
+               "ICANN, IANA Department",
+               "Juniper Networks"
+            ],
+            "dstOuiCnt" : 2,
+            "dstPackets" : 10,
+            "dstPayload8" : "0500050000010a00",
+            "dstPort" : 1080,
+            "email" : {
+               "smtpHello" : [
+                  "user"
+               ],
+               "smtpHelloCnt" : 1
+            },
+            "fileId" : [],
+            "firstPacket" : 1385474626674,
+            "initRTT" : 1730,
+            "ipProtocol" : 6,
+            "lastPacket" : 1385474639455,
+            "length" : 12781,
+            "node" : "test",
+            "packetLen" : [
+               82,
+               82,
+               76,
+               76,
+               76,
+               76,
+               76,
+               76,
+               91,
+               76,
+               80,
+               76,
+               146,
+               81,
+               76,
+               219,
+               82,
+               76,
+               113,
+               76
+            ],
+            "packetPos" : [
+               24,
+               106,
+               188,
+               264,
+               340,
+               416,
+               492,
+               568,
+               644,
+               735,
+               811,
+               891,
+               967,
+               1113,
+               1194,
+               1270,
+               1489,
+               1571,
+               1647,
+               1760
+            ],
+            "protocol" : [
+               "socks",
+               "smtp",
+               "tcp"
+            ],
+            "protocolCnt" : 3,
+            "segmentCnt" : 1,
+            "socks" : {
+               "host" : "010.000.00.003",
+               "port" : 25
+            },
+            "srcASN" : "AS0001 Cool Beans!",
+            "srcBytes" : 638,
+            "srcDataBytes" : 47,
+            "srcGEO" : "CA",
+            "srcIp" : "10.0.0.2",
+            "srcMac" : [
+               "00:0a:f3:31:94:00"
+            ],
+            "srcMacCnt" : 1,
+            "srcOui" : [
+               "Cisco Systems, Inc"
+            ],
+            "srcOuiCnt" : 1,
+            "srcPackets" : 10,
+            "srcPayload8" : "050100050100030e",
+            "srcPort" : 53709,
+            "srcRIR" : "TEST",
+            "tags" : [
+               "dstip",
+               "smtp:authlogin",
+               "srcip"
+            ],
+            "tagsCnt" : 3,
+            "tcpflags" : {
+               "ack" : 6,
+               "dstZero" : 0,
+               "fin" : 0,
+               "psh" : 10,
+               "rst" : 1,
+               "srcZero" : 0,
+               "syn" : 2,
+               "syn-ack" : 1,
+               "urg" : 0
+            },
+            "timestamp" : "SET",
+            "totBytes" : 1492,
+            "totDataBytes" : 327,
+            "totPackets" : 20
+         },
+         "header" : {
+            "index" : {
+               "_index" : "tests_sessions2-131126",
+               "_type" : "session"
+            }
+         }
+      }
+   ]
+}
+

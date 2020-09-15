@@ -1,0 +1,124 @@
+{
+   "sessions2" : [
+      {
+         "body" : {
+            "communityId" : "1:+howsemozCcnIdXPNBANfoSfiAw=",
+            "dstASN" : "AS13335 Cloudflare, Inc.",
+            "dstBytes" : 1454,
+            "dstDataBytes" : 1220,
+            "dstGEO" : "US",
+            "dstIp" : "2400:cb00:2048:0001:0000:0000:6813:c266",
+            "dstMac" : [
+               "00:26:55:d1:4d:97"
+            ],
+            "dstMacCnt" : 1,
+            "dstOui" : [
+               "Hewlett Packard"
+            ],
+            "dstOuiCnt" : 1,
+            "dstPackets" : 3,
+            "dstPayload8" : "1603010052020000",
+            "dstPort" : 443,
+            "fileId" : [],
+            "firstPacket" : 1483560476240,
+            "http" : {
+               "host" : [
+                  "blog.cloudflare.com"
+               ],
+               "hostCnt" : 1
+            },
+            "initRTT" : 2,
+            "ipProtocol" : 6,
+            "lastPacket" : 1483560476263,
+            "length" : 23,
+            "node" : "test",
+            "packetLen" : [
+               102,
+               102,
+               90,
+               607,
+               90,
+               1310
+            ],
+            "packetPos" : [
+               24,
+               126,
+               228,
+               318,
+               925,
+               1015
+            ],
+            "protocol" : [
+               "tls",
+               "tcp"
+            ],
+            "protocolCnt" : 2,
+            "segmentCnt" : 1,
+            "srcASN" : "AS16150 Availo Networks AB",
+            "srcBytes" : 751,
+            "srcDataBytes" : 517,
+            "srcGEO" : "SE",
+            "srcIp" : "2001:16d8:ffce:0010:aca8:353c:291d:a9b3",
+            "srcMac" : [
+               "c8:f7:33:1d:84:95"
+            ],
+            "srcMacCnt" : 1,
+            "srcOui" : [
+               "Intel Corporate"
+            ],
+            "srcOuiCnt" : 1,
+            "srcPackets" : 3,
+            "srcPayload8" : "1603010200010001",
+            "srcPort" : 62510,
+            "tcpflags" : {
+               "ack" : 3,
+               "dstZero" : 0,
+               "fin" : 0,
+               "psh" : 1,
+               "rst" : 0,
+               "srcZero" : 0,
+               "syn" : 1,
+               "syn-ack" : 1,
+               "urg" : 0
+            },
+            "timestamp" : "SET",
+            "tls" : {
+               "cipher" : [
+                  "TLS_AES_128_GCM_SHA256"
+               ],
+               "cipherCnt" : 1,
+               "ja3" : [
+                  "4826a90ec2daf4f7b4b64cc1c8bd343b"
+               ],
+               "ja3Cnt" : 1,
+               "ja3s" : [
+                  "986ae432c402479fe7a0c6fbe02164c1"
+               ],
+               "ja3sCnt" : 1,
+               "ja3sstring" : [
+                  "32530,4865,10240"
+               ],
+               "ja3sstringCnt" : 1,
+               "ja3string" : [
+                  "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-52244-52243-49171-49172-156-157-47-53-10,65281-0-23-35-13-5-18-16-30032-11-40-45-43-10-21,29-23-24,0"
+               ],
+               "ja3stringCnt" : 1,
+               "version" : [
+                  "TLSv1.3-draft-18"
+               ],
+               "versionCnt" : 1
+            },
+            "totBytes" : 2205,
+            "totDataBytes" : 1737,
+            "totPackets" : 6
+         },
+         "header" : {
+            "index" : {
+               "_index" : "tests_sessions2-170104",
+               "_type" : "session"
+            }
+         }
+      }
+   ]
+}
+

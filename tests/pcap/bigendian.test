@@ -1,0 +1,73 @@
+{
+   "sessions2" : [
+      {
+         "body" : {
+            "dstBytes" : 0,
+            "dstDataBytes" : 0,
+            "dstIp" : "10.64.11.49",
+            "dstMac" : [
+               "00:00:5e:00:01:b1"
+            ],
+            "dstMacCnt" : 1,
+            "dstOui" : [
+               "ICANN, IANA Department"
+            ],
+            "dstOuiCnt" : 1,
+            "dstPackets" : 0,
+            "dstPort" : 0,
+            "fileId" : [],
+            "firstPacket" : 1335958313152,
+            "icmp" : {
+               "code" : [
+                  0
+               ],
+               "type" : [
+                  8
+               ]
+            },
+            "ipProtocol" : 1,
+            "lastPacket" : 1335958317529,
+            "length" : 4376,
+            "node" : "test",
+            "packetLen" : [
+               114,
+               114
+            ],
+            "packetPos" : [
+               24,
+               138
+            ],
+            "protocol" : [
+               "icmp"
+            ],
+            "protocolCnt" : 1,
+            "segmentCnt" : 1,
+            "srcBytes" : 196,
+            "srcDataBytes" : 128,
+            "srcIp" : "192.168.177.160",
+            "srcMac" : [
+               "00:21:28:05:29:ba"
+            ],
+            "srcMacCnt" : 1,
+            "srcOui" : [
+               "Oracle Corporation"
+            ],
+            "srcOuiCnt" : 1,
+            "srcPackets" : 2,
+            "srcPort" : 0,
+            "srcRIR" : "ARIN",
+            "timestamp" : "SET",
+            "totBytes" : 196,
+            "totDataBytes" : 128,
+            "totPackets" : 2
+         },
+         "header" : {
+            "index" : {
+               "_index" : "tests_sessions2-120502",
+               "_type" : "session"
+            }
+         }
+      }
+   ]
+}
+

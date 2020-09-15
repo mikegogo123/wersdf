@@ -1,0 +1,244 @@
+{
+   "sessions2" : [
+      {
+         "body" : {
+            "communityId" : "1:SPYgVgvcW0g9bsfBLLnTtlWJezA=",
+            "dstASN" : "AS0001 Cool Beans!",
+            "dstBytes" : 4574,
+            "dstDataBytes" : 4344,
+            "dstGEO" : "CA",
+            "dstIp" : "10.0.0.2",
+            "dstMac" : [
+               "00:09:0f:db:f4:3e"
+            ],
+            "dstMacCnt" : 1,
+            "dstOui" : [
+               "Fortinet Inc."
+            ],
+            "dstOuiCnt" : 1,
+            "dstPackets" : 3,
+            "dstPayload8" : "485454502f312e31",
+            "dstPort" : 80,
+            "dstRIR" : "TEST",
+            "fileId" : [],
+            "firstPacket" : 1456042921641,
+            "http" : {
+               "bodyMagic" : [
+                  "text/html"
+               ],
+               "bodyMagicCnt" : 1,
+               "clientVersion" : [
+                  "1.1"
+               ],
+               "clientVersionCnt" : 1,
+               "host" : [
+                  "xxxxxxx.xxx.xxx"
+               ],
+               "hostCnt" : 1,
+               "method" : [
+                  "GET"
+               ],
+               "methodCnt" : 1,
+               "path" : [
+                  "/"
+               ],
+               "pathCnt" : 1,
+               "requestHeader" : [
+                  "accept",
+                  "user-agent",
+                  "connection",
+                  "host"
+               ],
+               "requestHeaderCnt" : 4,
+               "requestHeaderField" : [
+                  "accept",
+                  "connection"
+               ],
+               "requestHeaderValue" : [
+                  "*/*",
+                  "keep-alive"
+               ],
+               "requestHeaderValueCnt" : 2,
+               "responseHeader" : [
+                  "content-type",
+                  "x-cache",
+                  "vary",
+                  "cache-control",
+                  "x-xss-protection",
+                  "access-control-allow-origin",
+                  "accept-ranges",
+                  "content-length",
+                  "date",
+                  "x-timer",
+                  "connection",
+                  "x-servedbyhost",
+                  "set-cookie",
+                  "content-security-policy",
+                  "x-served-by",
+                  "fastly-debug-digest",
+                  "via",
+                  "x-cache-hits",
+                  "age"
+               ],
+               "responseHeaderCnt" : 19,
+               "responseHeaderField" : [
+                  "x-servedbyhost",
+                  "cache-control",
+                  "x-xss-protection",
+                  "content-security-policy",
+                  "access-control-allow-origin",
+                  "content-type",
+                  "via",
+                  "fastly-debug-digest",
+                  "content-length",
+                  "accept-ranges",
+                  "date",
+                  "via",
+                  "age",
+                  "connection",
+                  "set-cookie",
+                  "x-served-by",
+                  "x-cache",
+                  "x-cache-hits",
+                  "x-timer",
+                  "vary"
+               ],
+               "responseHeaderValue" : [
+                  "prd-10-00-000-01.xxxxx.xxx.xxxxx.xxx",
+                  "max-age=60",
+                  "1; mode=block",
+                  "default-src 'self' http://*.xxx.xxx:* https://*.xxx.com:* *.xxx.net:* *.xxxxxx.com:* *.xxxxxxxxx.com:* *.xxxx.net:*; script-src 'unsafe-inline' 'unsafe-eval' 'self' *; style-src 'unsafe-inline' 'self' *; frame-src 'self' *; object-src 'self' *; img-src 'self' * data:; media-src 'self' *; font-src 'self' *; connect-src 'self' *;",
+                  "*",
+                  "text/html; charset=utf-8",
+                  "1.1 varnish",
+                  "9e523fa72b6a1185e15653a90e0ae5026a5c5a2b0b708f448b65bf55c62b08bc",
+                  "104548",
+                  "bytes",
+                  "sun, 21 feb 2016 07:56:09 gmt",
+                  "1.1 varnish",
+                  "134",
+                  "keep-alive",
+                  "countrycode=il; domain=.xxx.xxx",
+                  "cache-iad2140-iad, cache-ams4122-ams",
+                  "hit, hit",
+                  "2, 21",
+                  "s1456041369.500557,vs0,ve0",
+                  "accept-encoding"
+               ],
+               "responseHeaderValueCnt" : 20,
+               "serverVersion" : [
+                  "1.1"
+               ],
+               "serverVersionCnt" : 1,
+               "statuscode" : [
+                  200
+               ],
+               "statuscodeCnt" : 1,
+               "uri" : [
+                  "xxxxxxx.xxx.xxx/"
+               ],
+               "uriCnt" : 1,
+               "useragent" : [
+                  "Wget/1.15 (linux-gnu)"
+               ],
+               "useragentCnt" : 1
+            },
+            "initRTT" : 29,
+            "ipProtocol" : 6,
+            "lastPacket" : 1456042921761,
+            "length" : 120,
+            "node" : "test",
+            "packetLen" : [
+               98,
+               98,
+               90,
+               203,
+               90,
+               4434
+            ],
+            "packetPos" : [
+               24,
+               122,
+               220,
+               310,
+               513,
+               603
+            ],
+            "protocol" : [
+               "http",
+               "tcp"
+            ],
+            "protocolCnt" : 2,
+            "segmentCnt" : 1,
+            "srcASN" : "AS0000 This is neat",
+            "srcBytes" : 343,
+            "srcDataBytes" : 113,
+            "srcGEO" : "RU",
+            "srcIp" : "10.0.0.1",
+            "srcMac" : [
+               "00:0c:29:c1:2d:24"
+            ],
+            "srcMacCnt" : 1,
+            "srcOui" : [
+               "VMware, Inc."
+            ],
+            "srcOuiCnt" : 1,
+            "srcPackets" : 3,
+            "srcPayload8" : "474554202f204854",
+            "srcPort" : 54422,
+            "tags" : [
+               "dstip",
+               "srcip"
+            ],
+            "tagsCnt" : 2,
+            "tcpflags" : {
+               "ack" : 3,
+               "dstZero" : 0,
+               "fin" : 0,
+               "psh" : 1,
+               "rst" : 0,
+               "srcZero" : 0,
+               "syn" : 1,
+               "syn-ack" : 1,
+               "urg" : 0
+            },
+            "test" : {
+               "ASN" : [
+                  "AS0000 This is neat"
+               ],
+               "GEO" : [
+                  "RU"
+               ],
+               "RIR" : [
+                  ""
+               ],
+               "ip" : [
+                  "10.0.0.1"
+               ],
+               "number" : [
+                  33554442
+               ],
+               "string.snow" : [
+                  "16777226:54422,33554442:80"
+               ]
+            },
+            "timestamp" : "SET",
+            "totBytes" : 4917,
+            "totDataBytes" : 4457,
+            "totPackets" : 6,
+            "vlan" : [
+               200,
+               201
+            ],
+            "vlanCnt" : 2
+         },
+         "header" : {
+            "index" : {
+               "_index" : "tests_sessions2-160221",
+               "_type" : "session"
+            }
+         }
+      }
+   ]
+}
+

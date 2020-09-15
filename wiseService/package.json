@@ -1,0 +1,17 @@
+{
+  "name": "WISE",
+  "version": "0.0.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "dependencies": {
+    "hashtable": "http://github.com/awick/node-hashtable/tarball/master",
+    "iptrie": "http://github.com/awick/node-iptrie/tarball/master"
+  },
+  "scripts": {
+    "lint": "jshint *.js"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5",
+    "lodash": "^4.17.13"
+  }
+}

@@ -1,0 +1,91 @@
+{
+   "sessions2" : [
+      {
+         "body" : {
+            "communityId" : "1:U0rs2Q+QDS7xJ0yJ5OM+y7QwC78=",
+            "dstBytes" : 78,
+            "dstDataBytes" : 0,
+            "dstIp" : "10.176.171.11",
+            "dstMac" : [
+               "2c:6b:f5:d6:17:c5"
+            ],
+            "dstMacCnt" : 1,
+            "dstOui" : [
+               "Juniper Networks"
+            ],
+            "dstOuiCnt" : 1,
+            "dstPackets" : 1,
+            "dstPort" : 9160,
+            "fileId" : [],
+            "firstPacket" : 1466085103886,
+            "initRTT" : 5,
+            "ipProtocol" : 6,
+            "lastPacket" : 1466085103897,
+            "length" : 10,
+            "node" : "test",
+            "packetLen" : [
+               98,
+               94,
+               86,
+               127
+            ],
+            "packetPos" : [
+               24,
+               122,
+               216,
+               302
+            ],
+            "protocol" : [
+               "cassandra",
+               "tcp",
+               "thrift"
+            ],
+            "protocolCnt" : 3,
+            "segmentCnt" : 1,
+            "srcBytes" : 263,
+            "srcDataBytes" : 41,
+            "srcIp" : "10.10.10.10",
+            "srcMac" : [
+               "00:1b:17:00:02:30",
+               "2c:6b:f5:d6:17:cc"
+            ],
+            "srcMacCnt" : 2,
+            "srcOui" : [
+               "Juniper Networks",
+               "Palo Alto Networks"
+            ],
+            "srcOuiCnt" : 2,
+            "srcPackets" : 3,
+            "srcPayload8" : "0000002580010001",
+            "srcPort" : 56391,
+            "tcpflags" : {
+               "ack" : 1,
+               "dstZero" : 0,
+               "fin" : 0,
+               "psh" : 1,
+               "rst" : 0,
+               "srcZero" : 0,
+               "syn" : 1,
+               "syn-ack" : 1,
+               "urg" : 0
+            },
+            "timestamp" : "SET",
+            "totBytes" : 341,
+            "totDataBytes" : 41,
+            "totPackets" : 4,
+            "vlan" : [
+               50,
+               300
+            ],
+            "vlanCnt" : 2
+         },
+         "header" : {
+            "index" : {
+               "_index" : "tests_sessions2-160616",
+               "_type" : "session"
+            }
+         }
+      }
+   ]
+}
+

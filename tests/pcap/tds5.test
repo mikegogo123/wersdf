@@ -1,0 +1,136 @@
+{
+   "sessions2" : [
+      {
+         "body" : {
+            "communityId" : "1:2nquoB8nEas/+ztivTmvEfr1VCg=",
+            "dstASN" : "AS0001 Cool Beans!",
+            "dstBytes" : 585,
+            "dstDataBytes" : 283,
+            "dstGEO" : "CA",
+            "dstIp" : "10.0.0.2",
+            "dstMac" : [
+               "00:22:83:3f:17:c5",
+               "2c:6b:f5:d6:17:c5"
+            ],
+            "dstMacCnt" : 2,
+            "dstOui" : [
+               "Juniper Networks"
+            ],
+            "dstOuiCnt" : 1,
+            "dstPackets" : 5,
+            "dstPayload8" : "040100a300000000",
+            "dstPort" : 3106,
+            "dstRIR" : "TEST",
+            "fileId" : [],
+            "firstPacket" : 1465335293231,
+            "initRTT" : 0,
+            "ipProtocol" : 6,
+            "lastPacket" : 1465335293242,
+            "length" : 10,
+            "node" : "test",
+            "packetLen" : [
+               82,
+               82,
+               80,
+               586,
+               160,
+               76,
+               76,
+               237,
+               101,
+               194
+            ],
+            "packetPos" : [
+               24,
+               106,
+               188,
+               268,
+               854,
+               1014,
+               1090,
+               1166,
+               1403,
+               1504
+            ],
+            "protocol" : [
+               "tds",
+               "tcp"
+            ],
+            "protocolCnt" : 2,
+            "segmentCnt" : 1,
+            "srcASN" : "AS0000 This is neat",
+            "srcBytes" : 929,
+            "srcDataBytes" : 625,
+            "srcGEO" : "RU",
+            "srcIp" : "10.0.0.1",
+            "srcMac" : [
+               "00:22:83:3f:17:cc",
+               "2c:6b:f5:d6:17:cc"
+            ],
+            "srcMacCnt" : 2,
+            "srcOui" : [
+               "Juniper Networks"
+            ],
+            "srcOuiCnt" : 1,
+            "srcPackets" : 5,
+            "srcPayload8" : "0200020000000100",
+            "srcPort" : 3933,
+            "tags" : [
+               "dstip",
+               "srcip"
+            ],
+            "tagsCnt" : 2,
+            "tcpflags" : {
+               "ack" : 3,
+               "dstZero" : 0,
+               "fin" : 0,
+               "psh" : 5,
+               "rst" : 0,
+               "srcZero" : 0,
+               "syn" : 1,
+               "syn-ack" : 1,
+               "urg" : 0
+            },
+            "test" : {
+               "ASN" : [
+                  "AS0000 This is neat"
+               ],
+               "GEO" : [
+                  "RU"
+               ],
+               "RIR" : [
+                  ""
+               ],
+               "ip" : [
+                  "10.0.0.1"
+               ],
+               "number" : [
+                  33554442
+               ],
+               "string.snow" : [
+                  "16777226:3933,33554442:3106"
+               ]
+            },
+            "timestamp" : "SET",
+            "totBytes" : 1514,
+            "totDataBytes" : 908,
+            "totPackets" : 10,
+            "user" : [
+               "user___user"
+            ],
+            "userCnt" : 1,
+            "vlan" : [
+               50
+            ],
+            "vlanCnt" : 1
+         },
+         "header" : {
+            "index" : {
+               "_index" : "tests_sessions2-160607",
+               "_type" : "session"
+            }
+         }
+      }
+   ]
+}
+

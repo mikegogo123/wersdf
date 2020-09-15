@@ -1,0 +1,194 @@
+{
+   "sessions2" : [
+      {
+         "body" : {
+            "communityId" : "1:JzVmR9JF+CoetgG0sIF2LBr8i/U=",
+            "dstASN" : "AS16509 Amazon.com, Inc.",
+            "dstBytes" : 1800,
+            "dstDataBytes" : 1167,
+            "dstGEO" : "US",
+            "dstIp" : "52.43.228.156",
+            "dstPackets" : 4,
+            "dstPayload8" : "485454502f312e31",
+            "dstPort" : 80,
+            "dstRIR" : "ARIN",
+            "fileId" : [],
+            "firstPacket" : 1489603870937,
+            "http" : {
+               "clientVersion" : [
+                  "1.1"
+               ],
+               "clientVersionCnt" : 1,
+               "host" : [
+                  "www.aol.com"
+               ],
+               "hostCnt" : 1,
+               "md5" : [
+                  "cbd66d3fd40db184cf2af858b4184f87"
+               ],
+               "md5Cnt" : 1,
+               "method" : [
+                  "GET"
+               ],
+               "methodCnt" : 1,
+               "path" : [
+                  "/"
+               ],
+               "pathCnt" : 1,
+               "requestHeader" : [
+                  "accept",
+                  "user-agent",
+                  "host"
+               ],
+               "requestHeaderCnt" : 3,
+               "requestHeaderField" : [
+                  "accept"
+               ],
+               "requestHeaderValue" : [
+                  "*/*"
+               ],
+               "requestHeaderValueCnt" : 1,
+               "response-location" : [
+                  "https://www.aol.com/"
+               ],
+               "responseHeader" : [
+                  "content-type",
+                  "x-aol-hn",
+                  "vary",
+                  "cache-control",
+                  "x-xss-protection",
+                  "request-id",
+                  "content-length",
+                  "date",
+                  "connection",
+                  "server",
+                  "set-cookie",
+                  "x-content-type-options",
+                  "location"
+               ],
+               "responseHeaderCnt" : 13,
+               "responseHeaderField" : [
+                  "cache-control",
+                  "content-type",
+                  "date",
+                  "request-id",
+                  "server",
+                  "set-cookie",
+                  "set-cookie",
+                  "set-cookie",
+                  "set-cookie",
+                  "set-cookie",
+                  "vary",
+                  "x-aol-hn",
+                  "x-content-type-options",
+                  "x-xss-protection",
+                  "content-length",
+                  "connection"
+               ],
+               "responseHeaderValue" : [
+                  "no-cache, no-store, private, max-age=0",
+                  "text/html; charset=utf-8",
+                  "wed, 15 mar 2017 18:49:53 gmt",
+                  "2d571b22-09b0-11e7-b43e-02afcb36bd8b",
+                  "apache",
+                  "ampmv-99=1e393084c0261f6e5527c37544e7d220f1797c37; expires=fri, 14-apr-2017 18:49:53 gmt; max-age=2592000; path=/",
+                  "ampmv-84=162eb0f3e15d1c386c5eb016e6ac8862cf3d8ab4; expires=fri, 14-apr-2017 18:49:53 gmt; max-age=2592000; path=/",
+                  "ampmv-98=c7ea22328cd19e9e5a522ddbc431920e9d804c70; expires=wed, 31-may-2017 04:00:00 gmt; max-age=6599407; path=/",
+                  "ampmv-73=5a87a46cbf5cb42198eaf3d48a3a02ad0a68e846; expires=fri, 14-apr-2017 18:49:53 gmt; max-age=2592000; path=/",
+                  "ampmv-90=68d8ac2406a9ad2cf08c2f54b5da1e1b1c57123b; expires=mon, 20-mar-2017 04:00:00 gmt; max-age=378607; path=/",
+                  "accept-encoding",
+                  "i-00a709614b39984a1",
+                  "nosniff",
+                  "1; mode=block",
+                  "104",
+                  "keep-alive"
+               ],
+               "responseHeaderValueCnt" : 16,
+               "serverVersion" : [
+                  "1.1"
+               ],
+               "serverVersionCnt" : 1,
+               "sha256" : [
+                  "2ddd74d069d1623fa32ba5dce66e7aaf18e1e8ed09bfab55fd8d96bef61a30f7"
+               ],
+               "sha256Cnt" : 1,
+               "statuscode" : [
+                  301
+               ],
+               "statuscodeCnt" : 1,
+               "uri" : [
+                  "www.aol.com/"
+               ],
+               "uriCnt" : 1,
+               "useragent" : [
+                  "curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.21 Basic ECC zlib/1.2.3 libidn/1.18 libssh2/1.4.2"
+               ],
+               "useragentCnt" : 1
+            },
+            "initRTT" : 0,
+            "ipProtocol" : 6,
+            "lastPacket" : 1489603870937,
+            "length" : 0,
+            "node" : "test",
+            "packetLen" : [
+               124,
+               180,
+               116,
+               288,
+               172,
+               1340,
+               116,
+               116,
+               172,
+               100
+            ],
+            "packetPos" : [
+               24,
+               148,
+               328,
+               444,
+               732,
+               904,
+               2244,
+               2360,
+               2476,
+               2648
+            ],
+            "protocol" : [
+               "http",
+               "tcp"
+            ],
+            "protocolCnt" : 2,
+            "segmentCnt" : 1,
+            "srcBytes" : 764,
+            "srcDataBytes" : 172,
+            "srcIp" : "10.10.10.10",
+            "srcPackets" : 6,
+            "srcPayload8" : "474554202f204854",
+            "srcPort" : 54064,
+            "tcpflags" : {
+               "ack" : 4,
+               "dstZero" : 0,
+               "fin" : 2,
+               "psh" : 2,
+               "rst" : 0,
+               "srcZero" : 0,
+               "syn" : 1,
+               "syn-ack" : 1,
+               "urg" : 0
+            },
+            "timestamp" : "SET",
+            "totBytes" : 2564,
+            "totDataBytes" : 1339,
+            "totPackets" : 10
+         },
+         "header" : {
+            "index" : {
+               "_index" : "tests_sessions2-170315",
+               "_type" : "session"
+            }
+         }
+      }
+   ]
+}
+

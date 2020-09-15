@@ -1,0 +1,175 @@
+{
+   "sessions2" : [
+      {
+         "body" : {
+            "communityId" : "1:Z3Q5W24QYzkDoI1VGO+4YY2G3BI=",
+            "dstASN" : "AS32934 Facebook, Inc.",
+            "dstBytes" : 5678,
+            "dstDataBytes" : 4416,
+            "dstGEO" : "IE",
+            "dstIp" : "31.13.74.1",
+            "dstMac" : [
+               "4c:02:89:0a:d2:76"
+            ],
+            "dstMacCnt" : 1,
+            "dstOui" : [
+               "Lex Computech Co., Ltd"
+            ],
+            "dstOuiCnt" : 1,
+            "dstPackets" : 19,
+            "dstPayload8" : "3151545630300000",
+            "dstPort" : 443,
+            "dstRIR" : "RIPE",
+            "fileId" : [],
+            "firstPacket" : 1479719879541,
+            "initRTT" : 72,
+            "ipProtocol" : 6,
+            "lastPacket" : 1479719902505,
+            "length" : 22965,
+            "node" : "test",
+            "packetLen" : [
+               90,
+               90,
+               82,
+               289,
+               1355,
+               82,
+               220,
+               159,
+               82,
+               82,
+               1236,
+               142,
+               1430,
+               280,
+               82,
+               1176,
+               82,
+               120,
+               82,
+               318,
+               82,
+               124,
+               124,
+               82,
+               644,
+               120,
+               82,
+               383,
+               82,
+               458,
+               120,
+               82,
+               348,
+               82,
+               460,
+               120,
+               82,
+               292,
+               82,
+               894,
+               120,
+               82,
+               338,
+               82
+            ],
+            "packetPos" : [
+               24,
+               114,
+               204,
+               286,
+               575,
+               1930,
+               2012,
+               2232,
+               2391,
+               2473,
+               2555,
+               3791,
+               3933,
+               5363,
+               5643,
+               5725,
+               6901,
+               6983,
+               7103,
+               7185,
+               7503,
+               7585,
+               7709,
+               7833,
+               7915,
+               8559,
+               8679,
+               8761,
+               9144,
+               9226,
+               9684,
+               9804,
+               9886,
+               10234,
+               10316,
+               10776,
+               10896,
+               10978,
+               11270,
+               11352,
+               12246,
+               12366,
+               12448,
+               12786
+            ],
+            "protocol" : [
+               "fbzero",
+               "quic",
+               "tcp"
+            ],
+            "protocolCnt" : 3,
+            "quic" : {
+               "host" : [
+                  "graph.facebook.com"
+               ],
+               "hostCnt" : 1
+            },
+            "segmentCnt" : 1,
+            "srcBytes" : 6462,
+            "srcDataBytes" : 4804,
+            "srcIp" : "192.168.1.111",
+            "srcMac" : [
+               "88:28:b3:b3:7c:41"
+            ],
+            "srcMacCnt" : 1,
+            "srcOui" : [
+               "Huawei Technologies Co.,Ltd"
+            ],
+            "srcOuiCnt" : 1,
+            "srcPackets" : 25,
+            "srcPayload8" : "3151545630c60000",
+            "srcPort" : 39584,
+            "srcRIR" : "ARIN",
+            "tcpflags" : {
+               "ack" : 18,
+               "dstZero" : 0,
+               "fin" : 0,
+               "psh" : 24,
+               "rst" : 0,
+               "srcZero" : 0,
+               "syn" : 1,
+               "syn-ack" : 1,
+               "urg" : 0
+            },
+            "timestamp" : "SET",
+            "totBytes" : 12140,
+            "totDataBytes" : 9220,
+            "totPackets" : 44
+         },
+         "header" : {
+            "index" : {
+               "_index" : "tests_sessions2-161121",
+               "_type" : "session"
+            }
+         }
+      }
+   ]
+}
+
